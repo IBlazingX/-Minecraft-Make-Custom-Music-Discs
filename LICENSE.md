@@ -1,12 +1,11 @@
-**Shield:** [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs">Make Custom Music Discs</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/IBlazingX">IBlazingX</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International</a></p>
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs">Make Custom Music Discs</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/IBlazingX">IBlazingX</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International</a></p>
+
+
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 | Licencia | http://creativecommons.org/licenses/by-sa/4.0/ |
 | ------------ | ------------ |
