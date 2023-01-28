@@ -7,6 +7,9 @@
 [datapack-all-versions-url-github]: https://google.com
 [datapack-all-versions-url-modrinth]: https://google.com
 
+[resourcepack-url]: https://google.com
+[all-resourcepack-url]: https://google.com
+
 ## Navegación
 - [Información](#información)
   - [Datapack](#datapack)
