@@ -1,10 +1,11 @@
+
 [changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/changelog/README.md
 [wiki-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki
 [downloads-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/README.md
 
 [shield-1]: http://creativecommons.org/licenses/by-sa/4.0/
-[shield-2]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs
-[shield-3]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs
+[shield-2]: https://modrinth.com/mod/make-custom-music-discs
+[shield-3]: https://www.planetminecraft.com/data-pack/make-custom-music-discs
 [shield-4]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs
 [shield-5]: https://www.youtube.com/channel/UCBpt68gmj6qgNAHuWKI5z4g
 [shield-6]: https://twitter.com/IBlazingX
