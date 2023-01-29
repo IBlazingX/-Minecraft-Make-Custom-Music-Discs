@@ -1,7 +1,7 @@
 [changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/tree/main/changelog
 
 [download-url-github]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/blx_mcmd-v10_1_0_0.zip
-[download-url-modrinth]: https://modrinth.com/mod/make-custom-music-discs/version/10.1.0.0
+[download-url-modrinth]: https://modrinth.com/datapack/make-custom-music-discs/version/10.1.0.0
 [download-url-pmc]: https://www.planetminecraft.com/data-pack/make-custom-music-discs
 [datapack-all-versions-url-github]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/README.md
 [datapack-all-versions-url-modrinth]: https://modrinth.com/datapack/make-custom-music-discs/versions
