@@ -1,14 +1,13 @@
 [changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/tree/main/changelog
 
-[download-url-github]: https://google.com
-[download-url-mediafire]: https://google.com
+[download-url-github]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/blx_mcmd-v10_1_0_0.zip
 [download-url-modrinth]: https://google.com
-[download-url-pmc]: https://google.com
-[datapack-all-versions-url-github]: https://google.com
-[datapack-all-versions-url-modrinth]: https://google.com
+[download-url-pmc]: https://www.planetminecraft.com/data-pack/make-custom-music-discs
+[datapack-all-versions-url-github]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/README.md
+[datapack-all-versions-url-modrinth]: https://modrinth.com/datapack/make-custom-music-discs/versions
 
-[resourcepack-url]: https://google.com
-[all-resourcepack-url]: https://google.com
+[resourcepack-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/resourcepack/blx_mcmd-resources-v10_x_x_x.zip
+[all-resourcepack-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/resourcepack/README.md
 
 ## Navegación
 - [Información](#información)
@@ -22,7 +21,7 @@
 ## Información
 #### Datapack
 - **Nombre:** Make Custom Music Discs
-- **Version:** `1.0.0`
+- **Version:** `10.1.0.0` <!-- 10.1.0.0 = <pack_format>.<version> = pack_format 10 + v1.0.0  -->
 - **Compatible con Minecraft:** `1.19 - 1.19.3`
   > :x: Incompatible con características experimentales como las de la 1.20
 
@@ -30,14 +29,12 @@
 - **Creador:** IBlazingX
 - **Créditos adicionales:**
   - Muchas gracias a **@CarlosDiamon** por proporcionarme los clips necesarios debido a que no puedo grabar bien en mi pc, y gracias tambíen por se un gran **Beta Tester**.
-  - También doy gracias a **...** por probar la primer versión de este datapack.
-  - Y agradezco a todas las personas que me ayudaron encontrando y proporcionarme información sobre bugs del datapack para poder solucionarlos.
+  - Tambien agradezco a todas las personas que me ayudaron encontrando y proporcionarme información sobre bugs del datapack para poder solucionarlos.
   
 #### Archivo
-- **Nombre:** `blx_mcmd-v1_0_0.zip`
+- **Nombre:** `blx_mcmd-v10_1_0_0.zip`
 - **Enlaces:**
   - **[GitHub](download-url-github)** *(Enlace de decarga)*
-  - **[Mediafire](download-url-mediafire)** *(Enlace de decarga)*
   - **[Modrinth](download-url-modrinth)** *(Enlace de descarga)*
   - **[Planet Minecraft Community](download-url-pmc)** *(Página del datapack)*
 > Para ver todas las versiónes ve a [GitHub](datapack-all-versions-url-github) o [Modrinth](datapack-all-versions-url-modrinth).
@@ -71,4 +68,4 @@
 > Los idiomas pueden estar traducidos con conocimiento propio y con ayuda del [traductor de google](https://translate.google.com), si ven algun error en la traducción pueden notificarlo en [el apartado de bugs](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/issues) para poder solucionarlo.
 
 ## Bugs corregidos
-- [<ins>**GH-1**</ins>]() test
+- [<ins>**GH-1**</ins>](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/issues/1) test
