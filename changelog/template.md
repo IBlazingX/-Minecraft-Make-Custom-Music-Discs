@@ -34,10 +34,10 @@
 #### Archivo
 - **Nombre:** `blx_mcmd-v10_1_0_0.zip`
 - **Enlaces:**
-  - **[GitHub](download-url-github)** *(Enlace de decarga)*
-  - **[Modrinth](download-url-modrinth)** *(Enlace de descarga)*
-  - **[Planet Minecraft Community](download-url-pmc)** *(Página del datapack)*
-> Para ver todas las versiónes ve a [GitHub](datapack-all-versions-url-github) o [Modrinth](datapack-all-versions-url-modrinth).
+  - **[GitHub][download-url-github]** *(Enlace de decarga)*
+  - **[Modrinth][download-url-modrinth]** *(Enlace de descarga)*
+  - **[Planet Minecraft Community][download-url-pmc]** *(Página del datapack)*
+> Para ver todas las versiónes ve a [GitHub][datapack-all-versions-url-github] o [Modrinth][datapack-all-versions-url-modrinth].
 
 ## Características
 #### :heavy_plus_sign: Añadidas
@@ -74,7 +74,7 @@
 
 - English
 
-> Para que los idiomas funcionen se require la instalación del [resourcepack](resourcepack-url), si quieres descargar otras versiones ve a [la carpeta de resourcepacks](all-resourcepack-url).
+> Para que los idiomas funcionen se require la instalación del [resourcepack][resourcepack-url], si quieres descargar otras versiones ve a [la carpeta de resourcepacks][all-resourcepack-url].
 > Los idiomas pueden estar traducidos con conocimiento propio y con ayuda del [traductor de google](https://translate.google.com), si ven algun error en la traducción pueden notificarlo en [el apartado de bugs](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/issues) para poder solucionarlo.
 
 ## Bugs corregidos
