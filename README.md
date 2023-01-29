@@ -1,4 +1,8 @@
-[changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/tree/main/changelog
+[changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/changelog/README.md
+[wiki-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki
+[downloads-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki
+
+[![](https://img.shields.io/badge/License-cc%20by--sa%204.0-cfcfcf)](cc-by-sa) [![](https://img.shields.io/badge/Modrinth-project-1bd96a)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Planet%20Minecraft%20Community-project-57b10f)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Github-project-161b22)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Youtube-channel-fd0000)](https://www.youtube.com/channel/UCBpt68gmj6qgNAHuWKI5z4g) [![](https://img.shields.io/badge/Twitter-profile-1d9bf0)](https://twitter.com/IBlazingX) [![](https://img.shields.io/badge/Paypal-donations-001f6a)](https://www.paypal.com/paypalme/BlazingX/)
 
 # Make Custom Music Discs
 > ###### by IBlazingX
@@ -7,16 +11,28 @@
 
 ### Custom Jukebox
 El "Custom Jukebox", bloque que se obtiene tirando un "Toca Discos" (item) arriba de un "Barril" (bloque), este bloque que seria algo como el corazón del datapack. Este, además de poder "creaftearse" tambien se puede "descraftear" (o como yo lo llamo, "Desmontar") y se puede mover debido a que cuando se rrompe te dropea el barril pero con datos que definen que es un "Custom Jukebox", que con esos datos al ponerlo en el suelo se genera el "Custom Jukebox".
+
+<img src="https://imgur.com/4j6EDsh.gif" alt="Crafteo" width="25%"><img src="https://imgur.com/8lt6uyg.gif" alt="Desmontar" width="25%"><img src="https://imgur.com/1N8psBD.gif" alt="Rromper" width="25%"><img src="https://imgur.com/ChuzGYZ.gif" alt="Poner" width="25%">
   > Cabe aclarar que cuando lo rrompes todos los items que tenga adentro se guardan, es parecido a un shulkerbox, también es resistente a cualquier explosion en su estado de bloque (siempre te dropea el item) pero una vez esta en el estado de item si puede explotar y lo puede perder junto a todos los items que le dejaste adentro.
   
-<img src="https://imgur.com/4j6EDsh.gif" alt="Crafteo" width="25%"><img src="https://imgur.com/8lt6uyg.gif" alt="Desmontar" width="25%"><img src="https://imgur.com/1N8psBD.gif" alt="Rromper" width="25%"><img src="https://imgur.com/ChuzGYZ.gif" alt="Poner" width="25%">
 
-###### Aunque lo anterior es bastante practico, siendo solo su exterior, aun queda todo el interior el cual contiene la idea principal de este datapack, pero como esto no es la [wiki](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki) solo mostrare lo mas importante.
+###### Aunque lo anterior es bastante practico, siendo solo su exterior, aun queda todo el interior el cual contiene la idea principal de este datapack, pero como esto no es la [wiki](wiki-url) solo mostrare lo mas importante.
 
 Primero tenemos su apartado de reproducción, el cual te permite poder reproducir todos los discos que generes usando el datapack y tambien todos los discos vanilla, este viene con varias opciones y hasta con una "cola de reproducción". Y segundo tenemos al "Lector", **que de momento** es el apartado mas llamativo e importante del datapack, esto debido a que es el que te permitirá grabar canciones de redstone y bloques musicales adentro de un disco, un disco el cual podras llevar a todos lados y escucharlo con el "Custom Jukebox".
+
+https://user-images.githubusercontent.com/80444690/215317765-e678f08c-1c94-4231-abde-7ce6fd7b169e.mp4
+
+https://user-images.githubusercontent.com/80444690/215317775-c91638c1-fc4c-4052-8d56-ae045984f840.mp4
   > El "Lector" tambien tiene una customización para los discos pero que de momento esta en desarrollo, hay mas info adentro del juego si la intentas usar pero resumiendo, no se implemento aún porque para hacerlo se ocupa la necesidad de modificar una gran parte del codigo y por no decir la mitad, la razón de eso es por incompatibilidades con el sistema de gui para detectar sierta forma de click (el click con un item en el cursor)
-  
-https://imgur.com/SBgfKOc.mp4
+
+
+###### El "Reproductor" también cuenta con un pequeño detalle, una animación al reproducir/cambiar discos.
+<img src="https://imgur.com/kElTy6Z.gif" alt="Animación" width="50%">
+
+## Enlaces
+- [Historial de cambios](changelog-url)
+- [Descargas](downloads-url)
+- [Wiki](wiki-url)
 
 ## Licencia
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
