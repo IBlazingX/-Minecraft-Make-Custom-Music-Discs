@@ -58,6 +58,16 @@
 - **Interfaces (GUI)**
   - Customización de los discos en el "lector" que se encuentra en la interfaz principal del "Custom Jukebox".
   
+<details>
+<summary>Información completamente detallada</summary>
+
+  ```diff
+  + added
+  - removed
+  ```
+  
+</details>
+
 ## Idiomas
 - **Español**
   > Idioma predeterminado (No requiere resourcepack).
