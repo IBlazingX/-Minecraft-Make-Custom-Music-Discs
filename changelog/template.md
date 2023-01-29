@@ -28,7 +28,7 @@
 #### Contribución
 - **Creador:** IBlazingX
 - **Créditos adicionales:**
-  - Muchas gracias a **@CarlosDiamon** por proporcionarme los clips necesarios debido a que no puedo grabar bien en mi pc, y gracias tambíen por se un gran **Beta Tester**.
+  - Muchas gracias a **@CarlosDiamon** por proporcionarme los clips necesarios debido a que no puedo grabar bien en mi pc, y gracias tambíen por se un gran **Beta Tester**. Y a **Serex** por darme la idea del datapack.
   - Tambien agradezco a todas las personas que me ayudaron encontrando y proporcionarme información sobre bugs del datapack para poder solucionarlos.
   
 #### Archivo
