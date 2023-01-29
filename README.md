@@ -1,6 +1,6 @@
 [changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/changelog/README.md
 [wiki-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki
-[downloads-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki
+[downloads-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/README.md
 
 [![](https://img.shields.io/badge/License-cc%20by--sa%204.0-cfcfcf)](cc-by-sa) [![](https://img.shields.io/badge/Modrinth-project-1bd96a)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Planet%20Minecraft%20Community-project-57b10f)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Github-project-161b22)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Youtube-channel-fd0000)](https://www.youtube.com/channel/UCBpt68gmj6qgNAHuWKI5z4g) [![](https://img.shields.io/badge/Twitter-profile-1d9bf0)](https://twitter.com/IBlazingX) [![](https://img.shields.io/badge/Paypal-donations-001f6a)](https://www.paypal.com/paypalme/BlazingX/)
 
