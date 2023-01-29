@@ -5,10 +5,18 @@
 
 ##### Este es un datapack que añade la posibilidad de guardar tus bloques musicales dentro de un disco, disco el cual podra ser reproducido por el mismo datapack mediante una interfaz bastante intuitiva la cual podras acceder abriendo el "Custom Jukebox", bloque el cual se obtiene tirando un "Toca Discos" (item) arriba de un "Barril" (bloque).
 
-## Navegación
-- [Licencia](#licencia)
+### Custom Jukebox
+El "Custom Jukebox", bloque que se obtiene tirando un "Toca Discos" (item) arriba de un "Barril" (bloque), este bloque que seria algo como el corazón del datapack. Este, además de poder "creaftearse" tambien se puede "descraftear" (o como yo lo llamo, "Desmontar") y se puede mover debido a que cuando se rrompe te dropea el barril pero con datos que definen que es un "Custom Jukebox", que con esos datos al ponerlo en el suelo se genera el "Custom Jukebox".
+  > Cabe aclarar que cuando lo rrompes todos los items que tenga adentro se guardan, es parecido a un shulkerbox, también es resistente a cualquier explosion en su estado de bloque (siempre te dropea el item) pero una vez esta en el estado de item si puede explotar y lo puede perder junto a todos los items que le dejaste adentro.
+  
+<img src="https://imgur.com/4j6EDsh.gif" alt="Crafteo" width="25%"><img src="https://imgur.com/8lt6uyg.gif" alt="Desmontar" width="25%"><img src="https://imgur.com/1N8psBD.gif" alt="Rromper" width="25%"><img src="https://imgur.com/ChuzGYZ.gif" alt="Poner" width="25%">
 
-> Para ver todos los cambios entre las versiones del datapack vaya al [Historial de Cambios](changelog-url), donde se encuentra un Markdown (con todos los cambios) por cada versión del datapack.
+###### Aunque lo anterior es bastante practico, siendo solo su exterior, aun queda todo el interior el cual contiene la idea principal de este datapack, pero como esto no es la [wiki](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki) solo mostrare lo mas importante.
+
+Primero tenemos su apartado de reproducción, el cual te permite poder reproducir todos los discos que generes usando el datapack y tambien todos los discos vanilla, este viene con varias opciones y hasta con una "cola de reproducción". Y segundo tenemos al "Lector", **que de momento** es el apartado mas llamativo e importante del datapack, esto debido a que es el que te permitirá grabar canciones de redstone y bloques musicales adentro de un disco, un disco el cual podras llevar a todos lados y escucharlo con el "Custom Jukebox".
+  > El "Lector" tambien tiene una customización para los discos pero que de momento esta en desarrollo, hay mas info adentro del juego si la intentas usar pero resumiendo, no se implemento aún porque para hacerlo se ocupa la necesidad de modificar una gran parte del codigo y por no decir la mitad, la razón de eso es por incompatibilidades con el sistema de gui para detectar sierta forma de click (el click con un item en el cursor)
+  
+https://imgur.com/SBgfKOc.mp4
 
 ## Licencia
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
