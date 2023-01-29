@@ -2,7 +2,15 @@
 [wiki-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/wiki
 [downloads-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/README.md
 
-[![](https://img.shields.io/badge/License-cc%20by--sa%204.0-cfcfcf)](cc-by-sa) [![](https://img.shields.io/badge/Modrinth-project-1bd96a)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Planet%20Minecraft%20Community-project-57b10f)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Github-project-161b22)](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs) [![](https://img.shields.io/badge/Youtube-channel-fd0000)](https://www.youtube.com/channel/UCBpt68gmj6qgNAHuWKI5z4g) [![](https://img.shields.io/badge/Twitter-profile-1d9bf0)](https://twitter.com/IBlazingX) [![](https://img.shields.io/badge/Paypal-donations-001f6a)](https://www.paypal.com/paypalme/BlazingX/)
+[shield-1]: http://creativecommons.org/licenses/by-sa/4.0/
+[shield-2]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs
+[shield-3]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs
+[shield-4]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs
+[shield-5]: https://www.youtube.com/channel/UCBpt68gmj6qgNAHuWKI5z4g
+[shield-6]: https://twitter.com/IBlazingX
+[shield-7]: https://www.paypal.com/paypalme/BlazingX/
+
+[![](https://img.shields.io/badge/License-cc%20by--sa%204.0-cfcfcf)][shield-1] [![](https://img.shields.io/badge/Modrinth-project-1bd96a)][shield-2] [![](https://img.shields.io/badge/Planet%20Minecraft%20Community-project-57b10f)][shield-3] [![](https://img.shields.io/badge/Github-project-161b22)][shield-4] [![](https://img.shields.io/badge/Youtube-channel-fd0000)][shield-5] [![](https://img.shields.io/badge/Twitter-profile-1d9bf0)][shield-6] [![](https://img.shields.io/badge/Paypal-donations-001f6a)][shield-7]
 
 # Make Custom Music Discs
 > ###### by IBlazingX
@@ -16,7 +24,7 @@ El "Custom Jukebox", bloque que se obtiene tirando un "Toca Discos" (item) arrib
   > Cabe aclarar que cuando lo rrompes todos los items que tenga adentro se guardan, es parecido a un shulkerbox, también es resistente a cualquier explosion en su estado de bloque (siempre te dropea el item) pero una vez esta en el estado de item si puede explotar y lo puede perder junto a todos los items que le dejaste adentro.
   
 
-###### Aunque lo anterior es bastante practico, siendo solo su exterior, aun queda todo el interior el cual contiene la idea principal de este datapack, pero como esto no es la [wiki](wiki-url) solo mostrare lo mas importante.
+###### Aunque lo anterior es bastante practico, siendo solo su exterior, aun queda todo el interior el cual contiene la idea principal de este datapack, pero como esto no es la [wiki][wiki-url] solo mostrare lo mas importante.
 
 Primero tenemos su apartado de reproducción, el cual te permite poder reproducir todos los discos que generes usando el datapack y tambien todos los discos vanilla, este viene con varias opciones y hasta con una "cola de reproducción". Y segundo tenemos al "Lector", **que de momento** es el apartado mas llamativo e importante del datapack, esto debido a que es el que te permitirá grabar canciones de redstone y bloques musicales adentro de un disco, un disco el cual podras llevar a todos lados y escucharlo con el "Custom Jukebox".
 
@@ -30,9 +38,9 @@ https://user-images.githubusercontent.com/80444690/215317775-c91638c1-fc4c-4052-
 <img src="https://imgur.com/kElTy6Z.gif" alt="Animación" width="50%">
 
 ## Enlaces
-- [Historial de cambios](changelog-url)
-- [Descargas](downloads-url)
-- [Wiki](wiki-url)
+- [Historial de cambios][changelog-url]
+- [Descargas][downloads-url]
+- [Wiki][wiki-url]
 
 ## Licencia
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
