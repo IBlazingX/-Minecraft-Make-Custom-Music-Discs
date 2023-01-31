@@ -8,3 +8,12 @@
   **Historial de cambios:** https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/changelog/v10.1.0.0.md
 
 </details>
+<details>
+<summary> v10.1.0.1 </summary>
+
+  **Descarga:** https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/blx_mcmd-v10_1_0_1.zip <br>
+  **Resourcepack:** *no requerido* <br>
+  <br>
+  **Historial de cambios:** https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/changelog/v10.1.0.1.md
+
+</details>
