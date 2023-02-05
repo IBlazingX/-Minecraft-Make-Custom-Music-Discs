@@ -14,7 +14,7 @@
 
 [![](https://img.shields.io/badge/License-cc%20by--sa%204.0-cfcfcf)][shield-1] [![](https://img.shields.io/badge/Modrinth-project-1bd96a)][shield-2] [![](https://img.shields.io/badge/Planet%20Minecraft%20Community-project-57b10f)][shield-3] [![](https://img.shields.io/badge/Github-project-161b22)][shield-4] [![](https://img.shields.io/badge/Youtube-channel-fd0000)][shield-5] [![](https://img.shields.io/badge/Twitter-profile-1d9bf0)][shield-6] [![](https://img.shields.io/badge/Paypal-donations-001f6a)][shield-7]
 
-# Make Custom Music Discs
+# Crea Discos de Musica Personalizados
 > ###### by IBlazingX
 
 ##### Este es un datapack que añade la posibilidad de guardar tus bloques musicales dentro de un disco, disco el cual podrá ser reproducido por el mismo datapack mediante una interfaz bastante intuitiva la cual podrás acceder abriendo el "Custom Jukebox", bloque el cual se obtiene tirando un "Toca Discos" (item) arriba de un "Barril" (bloque).
