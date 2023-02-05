@@ -14,6 +14,8 @@
 
 [![](https://img.shields.io/badge/License-cc%20by--sa%204.0-cfcfcf)][shield-1] [![](https://img.shields.io/badge/Modrinth-project-1bd96a)][shield-2] [![](https://img.shields.io/badge/Planet%20Minecraft%20Community-project-57b10f)][shield-3] [![](https://img.shields.io/badge/Github-project-161b22)][shield-4] [![](https://img.shields.io/badge/Youtube-channel-fd0000)][shield-5] [![](https://img.shields.io/badge/Twitter-profile-1d9bf0)][shield-6] [![](https://img.shields.io/badge/Paypal-donations-001f6a)][shield-7]
 
+> Destaco que el datapack no recibira actualizaciónes por tiempo indefinido, como mucho podrá tener corrección de bugs pero nada del otro mundo, el motivo se debe a que ya estoy por empezar las clases y no tendré tiempo... en fin, solo dejaba el aviso.
+
 # Crea Discos de Música Personalizados
 > ###### by IBlazingX
 
