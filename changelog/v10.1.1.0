@@ -1,0 +1,71 @@
+[changelog-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/tree/main/changelog
+
+[download-url-github]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/blx_mcmd-v10_1_1_0.zip
+[download-url-modrinth]: https://modrinth.com/datapack/make-custom-music-discs/version/10.1.1.0
+[download-url-pmc]: https://www.planetminecraft.com/data-pack/make-custom-music-discs
+[datapack-all-versions-url-github]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/README.md
+[datapack-all-versions-url-modrinth]: https://modrinth.com/datapack/make-custom-music-discs/versions
+
+[resourcepack-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/resourcepack/blx_mcmd-resources-v10_x_x_x.zip
+[all-resourcepack-url]: https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/resourcepack/README.md
+
+## Navegación
+- [Información](#información)
+  - [Datapack](#datapack)
+  - [Contibución](#contribución)
+  - [Archivo](#archivo)
+- [Características](#características)
+- [Idiomas](#idiomas)
+
+## Información
+#### Datapack
+- **Nombre:** Make Custom Music Discs
+- **Version:** `10.1.1.0` <!-- 10.1.0.0 = <pack_format>.<version> = pack_format 10 + v1.0.0  -->
+- **Compatible con Minecraft:** `1.19 - 1.19.3`
+  > :x: Incompatible con características experimentales como las de la 1.20
+
+#### Contribución
+- **Creador:** IBlazingX
+- **Créditos adicionales:**
+  - Muchas gracias a **@CarlosDiamon** por proporcionarme los clips necesarios debido a que no puedo grabar bien en mi pc, y gracias tambíen por se un gran **Beta Tester**. Y a **Serex** por darme la idea del datapack.
+  - Tambien agradezco a todas las personas que me ayudaron encontrando y proporcionarme información sobre bugs del datapack para poder solucionarlos.
+  
+#### Archivo
+- **Nombre:** `blx_mcmd-v10_1_0_0.zip`
+- **Enlaces:**
+  - **[GitHub][download-url-github]** *(Enlace de decarga)*
+  - **[Modrinth][download-url-modrinth]** *(Enlace de descarga)*
+  - **[Planet Minecraft Community][download-url-pmc]** *(Página del datapack)*
+> Para ver todas las versiónes ve a [GitHub][datapack-all-versions-url-github] o [Modrinth][datapack-all-versions-url-modrinth].
+
+## Características
+#### :heavy_plus_sign: En desarrollo
+- **Interfaces (GUI)**
+  - Customización de los discos en el "lector" que se encuentra en la interfaz principal del "Custom Jukebox".
+- **Logros**
+  - 18 nuevos logros conseguibles en survival (1 de ellos es automatico)
+  
+<details>
+<summary>Información completamente detallada</summary>
+
+  ```diff
+  + 18 nuevos logros
+  + customización del disco (apariencia, nombre y color del nombre)
+  + mejora en el sistema de detección de notas musicales
+  + variables de configuracion para la lectura (grabación) de discos y para la cola de reproducción, a continuación los comandos para configurarlo:
+    + duración máxima del disco (recomendada: 6000): /scoreboard players set #config.max_ticks blx.mcmd.record.stats.temp <ticks_de_duración>
+    + máximo de notas musicales del disco (recomendado: 8000): /scoreboard players set #config.max_notes blx.mcmd.record.stats.temp <número_de_notas>
+    + máximo de notas musicales por c/tick (recomendado: 100): /scoreboard players set #config.max_ticks blx.mcmd.record.stats.temp <número_de_notas>
+    + limite de la cola de reproducción (recomendado: 30): /scoreboard players set #config.max_ticks blx.mcmd.record.stats.temp <número_límite>
+  ```
+  
+</details>
+
+## Idiomas
+- **Español**
+  > Idioma predeterminado (No requiere resourcepack).
+
+- English
+  > Requiere un [datapack](https://github.com/IBlazingX/-Minecraft-Make-Custom-Music-Discs/blob/main/downloads/blx_mcmd_english_complement-to_v10_1_1_0.zip) adicional
+  > Este traduce el datapack a ingles (traduce su mayoria), la traducción se creo con la ayuda del Traductor de Google
+  
